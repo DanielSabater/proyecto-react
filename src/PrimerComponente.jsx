@@ -5,7 +5,7 @@ export const PrimerComponente = ({titulo, subtitulo}) => {
   return (
     <>
       <h1>{titulo} </h1>
-      <h1>{subtitulo +1}</h1>
+      <h1>{subtitulo +5}</h1>
     </>
   );
 };
