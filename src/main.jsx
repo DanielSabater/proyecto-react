@@ -6,7 +6,7 @@ import { ContadorApp } from "./ContadorApp.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <PrimerComponente titulo="Esta seccion es de props xD" subtitulo={10} />
+    <PrimerComponente titulo="Esta seccion es de props :D" subtitulo={10} />
     <ContadorApp />
   </React.StrictMode>,
 );
